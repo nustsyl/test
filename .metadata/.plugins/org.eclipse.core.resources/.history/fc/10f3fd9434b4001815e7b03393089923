@@ -6,10 +6,9 @@ public class demo_1
 	{
 		System.out.println("hello git");
 		
-		System.out.println("你好 git");
+		System.out.println("��� git");
 		
-		System.out.println("你好 git，我是xxx");
-	}
 
+	}
 }
   
