@@ -11,4 +11,3 @@ public class demo_1
 		System.out.println("你好 git，很高兴认识你");
 	}
 }
-  
