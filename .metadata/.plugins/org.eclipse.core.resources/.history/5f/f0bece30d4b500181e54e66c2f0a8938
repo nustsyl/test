@@ -11,7 +11,7 @@ public class demo_11
 			System.out.println("你好 git");
 			
 			System.out.println("你好 git 很高兴认识你");
-			System.out.println("你好 git 很高兴认识你");
+
 		}
 
 }
