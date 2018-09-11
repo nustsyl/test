@@ -8,9 +8,9 @@ public class demo_11
 			System.out.println("hello git");
 			
 
-			System.out.println("浣犲ソ git");
+			System.out.println("你好 git");
 			
-			System.out.println("浣犲ソ git 寰堥珮鍏磋璇嗕綘");
+			System.out.println("你好 git，我是xxx");
 
 		}
 
